@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24319" started-at="2018-12-26T05:26:11Z" finished-at="2018-12-26T05:26:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24319" started-at="2018-12-26T05:26:11Z" finished-at="2018-12-26T05:26:35Z">
+      <class name="com.acttime.Hometest.HomeTest">
+        <test-method status="PASS" signature="ConfigBS()[pri:0, instance:com.acttime.Hometest.HomeTest@3532ec19]" name="ConfigBS" is-config="true" duration-ms="14" started-at="2018-12-26T10:56:10Z" finished-at="2018-12-26T10:56:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigBS -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.acttime.Hometest.HomeTest@3532ec19]" name="configBC" is-config="true" duration-ms="10727" started-at="2018-12-26T10:56:11Z" finished-at="2018-12-26T10:56:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="ConfigBM()[pri:0, instance:com.acttime.Hometest.HomeTest@3532ec19]" name="ConfigBM" is-config="true" duration-ms="5772" started-at="2018-12-26T10:56:21Z" finished-at="2018-12-26T10:56:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigBM -->
+        <test-method status="PASS" signature="verifylogin()[pri:0, instance:com.acttime.Hometest.HomeTest@3532ec19]" name="verifylogin" duration-ms="31" started-at="2018-12-26T10:56:27Z" finished-at="2018-12-26T10:56:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method status="PASS" signature="ConfigAM()[pri:0, instance:com.acttime.Hometest.HomeTest@3532ec19]" name="ConfigAM" is-config="true" duration-ms="4828" started-at="2018-12-26T10:56:27Z" finished-at="2018-12-26T10:56:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigAM -->
+        <test-method status="PASS" signature="ConfigAC()[pri:0, instance:com.acttime.Hometest.HomeTest@3532ec19]" name="ConfigAC" is-config="true" duration-ms="2927" started-at="2018-12-26T10:56:32Z" finished-at="2018-12-26T10:56:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigAC -->
+        <test-method status="PASS" signature="CongifAS()[pri:0, instance:com.acttime.Hometest.HomeTest@3532ec19]" name="CongifAS" is-config="true" duration-ms="119" started-at="2018-12-26T10:56:35Z" finished-at="2018-12-26T10:56:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CongifAS -->
+      </class> <!-- com.acttime.Hometest.HomeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
